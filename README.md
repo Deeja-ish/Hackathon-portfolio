@@ -4,6 +4,7 @@ Welcome to the GitHub repository for my **personal portfolio website**.
 This project showcases my skills as a **Web Developer** and **UI/UX Designer**, featuring a clean, modern design and information about my work, skills, and background.
 
 > ✨ **Live Demo Link**: [Coming Soon – Replace with actual URL]  
+> ![Portfolio Screenshot](your-screenshot-link-here) <!-- Replace with actual image link -->
 
 ---
 
@@ -48,8 +49,6 @@ You can clone this repository to view or modify the code for your own portfolio.
 ```bash
 git clone https://github.com/your-github-username/Hackathon-portfolio
 cd Hackathon-portfolio
-
-
 Open in Browser
 Open the index.html file directly in any web browser to view the portfolio.
 
@@ -80,3 +79,6 @@ Khadija Goni
 📧 Email: khadijaismail696@gmail.com
 
 💻 GitHub: github.com/Deeja-ish
+
+Thank you for visiting my portfolio repository!
+Feel free to fork, customize, or share feedback 🌟
