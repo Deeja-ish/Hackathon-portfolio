@@ -4,7 +4,6 @@ Welcome to the GitHub repository for my **personal portfolio website**.
 This project showcases my skills as a **Web Developer** and **UI/UX Designer**, featuring a clean, modern design and information about my work, skills, and background.
 
 > ✨ **Live Demo Link**: [Coming Soon – Replace with actual URL]  
-> ![Portfolio Screenshot](your-screenshot-link-here) <!-- Replace with actual image link -->
 
 ---
 
