@@ -49,36 +49,27 @@ You can clone this repository to view or modify the code for your own portfolio.
 ```bash
 git clone https://github.com/your-github-username/Hackathon-portfolio
 cd Hackathon-portfolio
-Open in Browser
-Open the index.html file directly in any web browser to view the portfolio.
+```
 
-Customization Guide
+🌐 Open in browser
+You can simply open the index.html file directly in your browser to view the portfolio.
+
+✨ Customization Guide
 Hero Section:
+Open index.html and replace the placeholder div with an <img> tag for your professional photo.
+Update the "Download CV" link to your actual resume.
 
-Replace the placeholder image with your own photo
+About Me Section:
+Edit the text to reflect your background, goals, and personality.
 
-Update the “Download CV” link to your resume file
-
-About Me:
-
-Edit the text to reflect your personal background and journey
-
-Projects:
-
-Replace the sample project cards with your actual project details
-
-Update GitHub links and live demo URLs
+Projects Section:
+Replace the sample projects with your real ones. Add your GitHub links and live demos.
 
 Contact & Footer:
-
-Update the mailto: link and social media handles
+Change the email (mailto: link) and social links to your personal profiles.
 
 📫 Contact
 Khadija Goni
-
 📧 Email: khadijaismail696@gmail.com
+🐙 GitHub: github.com/Deeja-ish
 
-💻 GitHub: github.com/Deeja-ish
-
-Thank you for visiting my portfolio repository!
-Feel free to fork, customize, or share feedback 🌟
