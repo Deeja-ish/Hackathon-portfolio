@@ -1,66 +1,51 @@
-Khadija Goni - Personal Portfolio Website
-Welcome to the GitHub repository for my personal portfolio website. This project showcases my skills as a Web Developer and UI/UX Designer, featuring a clean, modern design and information about my work, skills, and background.
+# 🌐 Khadija Goni - Personal Portfolio Website
 
-✨ Live Demo Link ✨
-(Note: Replace the link above with the actual URL of your deployed portfolio!)
+Welcome to the GitHub repository for my **personal portfolio website**.  
+This project showcases my skills as a **Web Developer** and **UI/UX Designer**, featuring a clean, modern design and information about my work, skills, and background.
 
-(Suggestion: Take a screenshot of your finished portfolio and replace the placeholder image link above.)
+> ✨ **Live Demo Link**: [Coming Soon – Replace with actual URL]  
 
-📖 About The Project
-This portfolio was built from scratch to serve as a central hub for my professional presence online. It details my journey into technology, highlights my key projects, and provides an easy way for potential employers and collaborators to get in touch with me. The design philosophy was to create something that is elegant, easy to navigate, and fully responsive across all devices.
+---
 
-🚀 Features
-Fully Responsive Design: Looks great on mobile phones, tablets, and desktops.
+## 📖 About The Project
 
-Modern UI/UX: A clean, visually appealing layout with a professional blue color palette and a beautiful linear-gradient background.
+This portfolio was built from scratch to serve as a central hub for my **professional presence online**.  
+It details my **journey into technology**, highlights my **key projects**, and provides an easy way for potential employers and collaborators to get in touch with me.
 
-Interactive Sections: Smooth scrolling navigation to different sections of the portfolio: Home, About, Projects, and Contact.
+The design philosophy was to create something that is:
+- Elegant  
+- Easy to navigate  
+- Fully responsive across all devices
 
-Project Showcase: Dedicated sections for both UI/UX design mockups and live web development projects with links to GitHub repositories and live demos.
+---
 
-Skills Overview: A clear and concise list of my technical skills.
+## 🚀 Features
 
-Contact Form: A functional and simple form for visitors to send me a message.
+- ✅ **Fully Responsive Design** – Optimized for mobile, tablet, and desktop  
+- 🎨 **Modern UI/UX** – Clean layout, professional blue color palette, and linear-gradient backgrounds  
+- 🔗 **Interactive Navigation** – Smooth scrolling through Home, About, Projects, and Contact sections  
+- 💻 **Project Showcase** – UI/UX mockups and web dev projects with links to GitHub + live demos  
+- 🛠 **Skills Overview** – A concise list of technical proficiencies  
+- ✉️ **Contact Form** – Simple, functional form for message submission  
 
-🛠️ Built With
-This project was built using only front-end technologies, focusing on a clean and efficient codebase.
+---
 
-HTML5: For the structure and content of the website.
+## 🛠️ Built With
 
-CSS3: For all custom styling, including the layout, colors, fonts, and animations.
+- **HTML5** – For the structure and semantic content  
+- **CSS3** – Custom styling, layout, gradients, fonts, and animations  
+- **Bootstrap 5** – Responsive grid system and prebuilt UI components  
+- **Google Fonts** – "Poppins" for clean, modern typography  
+- **Font Awesome** – High-quality icons throughout the site  
 
-Bootstrap 5: A leading CSS framework used for its powerful grid system and responsive components.
+---
 
-Google Fonts: Utilizes the "Poppins" font for clean and modern typography.
+## 🔧 How to Use & Customize
 
-Font Awesome: For high-quality icons used throughout the site.
+You can clone this repository to view or modify the code for your own portfolio.
 
-🔧 How to Use & Customize
-You can clone this repository to your local machine to view the code or customize it for your own use.
-
-Clone the repository:
-
+### Clone the Repository
+```bash
 git clone https://github.com/your-github-username/Hackathon-portfolio
-
-Navigate to the project directory:
-
 cd Hackathon-portfolio
 
-Open index.html in your browser:
-You can simply open the index.html file directly in your web browser to see the portfolio.
-
-Customization Guide:
-Hero Section: Open index.html and replace the placeholder div with an <img> tag pointing to your professional photo. Update the "Download CV" link to point to your resume file.
-
-About Me: Edit the text in the "About Me" section to reflect your own background and interests.
-
-Projects: Replace the placeholder images and text in the project cards with your own project details. Update the links to your GitHub repositories and live deployments.
-
-Contact & Footer: Change the mailto: link and the social media URLs in the footer to your own profiles.
-
-📫 Contact
-Khadija Goni
-
-Email: khadijaismail696.com
-
-GitHub: github.com/Deeja-ish
