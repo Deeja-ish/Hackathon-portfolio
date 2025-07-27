@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Khadija Goni - Web Developer & UI/UX Designer</title>
+
+    <link rel="stylesheet" href="src/style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+</head>
+<body>
+
+    <nav id="navbar-main" class="navbar">
+        <div class="container navbar-container">
+            <a class="navbar-brand" href="#home">KGONI</a>
+            <button class="navbar-toggler" type="button" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="fas fa-bars"></i>
+            </button>
+            <div class="navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#home">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#about">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#projects">Project</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#contact">Contact Me</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <section id="home" class="hero-section">
+        <div class="container hero-container">
+            <div class="hero-content">
+                <div class="hero-text">
+                    <p class="lead">Hello, I'm</p>
+                    <h1>Khadija Goni</h1>
+                    <p class="lead hero-description">A creative Web Developer and UI/UX Designer passionate about building beautiful, functional, and user-centered digital experiences.</p>
+                    <a href="https://docs.google.com/document/d/14T1A7zB27tOlCrOR98Q65AoIs_euEyF5c5rMawn_aWI/edit?usp=sharing" class="btn btn-cv">Download CV</a>
+                </div>
+                <div class="hero-image-wrapper">
+                    <img src="img/me.jpg" alt="A professional headshot of Khadija Goni" class="hero-image">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="about" class="about-section">
+        <div class="container">
+            <h2 class="section-title">About Me</h2>
+            <div class="about-content">
+                <div class="about-text-column">
+                    <h3>A Little About Me</h3>
+                    <p>I am a detail-oriented and passionate developer and designer based in Nigeria. My journey into tech began with a fascination for how ideas can be transformed into tangible, interactive products that solve real-world problems. I thrive on challenges and am constantly learning new technologies to push the boundaries of what's possible.</p>
+                    <h3 class="mt-4">Education Background</h3>
+                    <p>I am a final-year Industrial Chemistry student at Bayero University Kano. While my formal education is in the sciences, my passion for technology drove me to pursue a software development scholarship with Power Learn Project Africa. This intensive program is where I am building a strong foundation in modern web technologies, allowing me to merge the analytical problem-solving skills from my chemistry degree with the creative and technical challenges of web development and UI/UX design.</p>
+                    <h3 class="mt-4">Interests</h3>
+                    <p>Beyond coding and designing, I enjoy exploring the world of digital art, contributing to open-source projects, and mentoring aspiring tech enthusiasts. I believe in the power of community and collaboration to foster growth and innovation.</p>
+                </div>
+                <div class="about-skills-column">
+                    <h3>My Skills</h3>
+                    <ul class="skill-list">
+                        <li><i class="fab fa-html5"></i> HTML5</li>
+                        <li><i class="fab fa-css3-alt"></i> CSS3</li>
+                        <li><i class="fab fa-js-square"></i> JavaScript (ES6+)</li>
+                        <li><i class="fab fa-bootstrap"></i> Bootstrap</li>
+                        <li><i class="fab fa-figma"></i> Figma</li>
+                        <li><i class="fas fa-mobile-alt"></i> Responsive Design</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="projects" class="projects-section">
+        <div class="container">
+            <h2 class="section-title">Projects</h2>
+
+            <div class="projects-category">
+                <h3 class="category-title">UI/UX Designs</h3>
+                <div class="ux-gallery">
+                    <div class="gallery-item">
+                        <img src="img/DEECOLA.png" alt="A flyer Design">
+                    </div>
+                    <div class="gallery-item">
+                        <img src="img/DY.png" alt="Home page of a website">
+                    </div>
+                    <div class="gallery-item">
+                        <img src="img/Iphone chat.png" alt="Recreation of iphone chat">
+                    </div>
+                </div>
+            </div>
+
+            <div class="projects-category web-projects-category">
+                <h3 class="category-title">Web Projects</h3>
+                <div class="web-projects-grid">
+                    <div class="project-card">
+                        <img src="img/weather.jpg" class="card-img-top" alt="Weather App">
+                        <div class="card-body">
+                            <h5 class="card-title">Weather App</h5>
+                            <p class="card-text">A responsive weather application built with HTML, CSS, and JavaScript that fetches and displays real-time weather data from a third-party API based on user input.</p>
+                            <div class="project-links">
+                                <a href="https://github.com/Deeja-ish/weather2.git" target="_blank"><i class="fab fa-github"></i></a>
+                                <a href="https://weather211.netlify.app/" target="_blank"><i class="fas fa-external-link-alt"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-card">
+                        <img src="img/clock.jpg" class="card-img-top" alt="WorldClock app">
+                        <div class="card-body">
+                            <h5 class="card-title">World Clock</h5>
+                            <p class="card-text">A dynamic world clock application created with HTML, CSS, and JavaScript. This tool allows users to view the current time in multiple cities across different time zones simultaneously, featuring a clean and intuitive interface.</p>
+                            <div class="project-links">
+                                <a href="https://github.com/Deeja-ish/worldclockproject.git" target="_blank"><i class="fab fa-github"></i></a>
+                                <a href="https://world-clock-project-js-new.netlify.app/" target="_blank"><i class="fas fa-external-link-alt"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-card">
+                        <img src="img/story.jpg" class="card-img-top" alt="AI story generator">
+                        <div class="card-body">
+                            <h5 class="card-title">AI Story Generator</h5>
+                            <p class="card-text">A creative web application that uses artificial intelligence to generate unique stories based on user prompts. This project demonstrates skills in working with generative AI APIs and handling asynchronous JavaScript to create an interactive and engaging user experience</p>
+                            <div class="project-links">
+                                <a href="https://github.com/Deeja-ish/story-generator.git" target="_blank"><i class="fab fa-github"></i></a>
+                                <a href="https://sage-quokka-c373ea.netlify.app/" target="_blank"><i class="fas fa-external-link-alt"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="contact-section">
+        <div class="container">
+            <h2 class="section-title">Contact Me</h2>
+            <div class="contact-form-wrapper">
+                <form action="#" method="POST" class="contact-form">
+                    <div class="form-group">
+                        <label for="name" class="form-label">Name</label>
+                        <input type="text" class="form-control" id="name" name="name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="email" class="form-label">Email address</label>
+                        <input type="email" class="form-control" id="email" name="email" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="message" class="form-label">Message</label>
+                        <textarea class="form-control" id="message" name="message" rows="5" required></textarea>
+                    </div>
+                    <div class="form-submit-center">
+                        <button type="submit" class="btn btn-cv">Send Message</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container footer-container">
+            <div class="footer-socials">
+                <a href="mailto:khadijaismail696@gmail.com"><i class="fas fa-envelope"></i></a>
+                <a href="https://github.com/Deeja-ish" target="_blank"><i class="fab fa-github"></i></a>
+                <a href="https://www.instagram.com/dee.ja_khady/" target="_blank"><i class="fab fa-instagram"></i></a>
+            </div>
+            <p>&copy; 2025 Khadija Goni. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+    </body>
+</html>
