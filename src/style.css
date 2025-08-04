@@ -2,25 +2,6 @@
 *, *::before, *::after {
     box-sizing: border-box;
 }
-/* --- Advanced CSS for Pure CSS Navbar Toggle --- */
-
-#navbar-toggle:checked ~ .navbar-collapse {
-    display: block;
-}
-
-/* Optional: Style the label (toggler) to look like a button */
-.navbar-toggler {
-    border: 1px solid rgba(0,0,0,.1);
-    border-radius: .25rem;
-    cursor: pointer; /* Makes it look clickable */
-}
-/* Hide the menu by default on smaller screens */
-@media (max-width: 991.98px) {
-    .navbar-collapse {
-        display: none;
-        width: 100%;
-    }
-}
 
 html {
     scroll-behavior: smooth;
