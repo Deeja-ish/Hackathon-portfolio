@@ -3,7 +3,7 @@
 Welcome to the GitHub repository for my **personal portfolio website**.  
 This project showcases my skills as a **Web Developer** and **UI/UX Designer**, featuring a clean, modern design and information about my work, skills, and background.
 
-> ✨ **Live Demo Link**: [Coming Soon – Replace with actual URL]  
+> ✨ **Live Demo Link**: https://portfolio-267.netlify.app/
 
 ---
 
@@ -34,7 +34,6 @@ The design philosophy was to create something that is:
 
 - **HTML5** – For the structure and semantic content  
 - **CSS3** – Custom styling, layout, gradients, fonts, and animations  
-- **Bootstrap 5** – Responsive grid system and prebuilt UI components  
 - **Google Fonts** – "Poppins" for clean, modern typography  
 - **Font Awesome** – High-quality icons throughout the site  
 
